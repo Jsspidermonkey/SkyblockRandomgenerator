@@ -1,1 +1,1 @@
-# SkyblockRandogenerator
+# SkyblockRandomgenerator
